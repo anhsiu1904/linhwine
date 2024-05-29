@@ -1,0 +1,2 @@
+INDEX VERSION 1.4+E:\test\LinhWine\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1588936372.index

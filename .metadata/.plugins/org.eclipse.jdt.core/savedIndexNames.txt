@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+E:\test\LinhWine\.metadata\.plugins\org.eclipse.jdt.core
+1588936372.index
